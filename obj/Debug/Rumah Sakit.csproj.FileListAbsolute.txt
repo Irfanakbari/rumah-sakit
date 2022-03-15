@@ -1,0 +1,8 @@
+C:\Users\irfan\OneDrive\Documents\SharpDevelop Projects\Rumah Sakit\Rumah Sakit\bin\Debug\Rumah Sakit.exe
+C:\Users\irfan\OneDrive\Documents\SharpDevelop Projects\Rumah Sakit\Rumah Sakit\bin\Debug\Rumah Sakit.exe.config
+C:\Users\irfan\OneDrive\Documents\SharpDevelop Projects\Rumah Sakit\Rumah Sakit\obj\Debug\Rumah Sakit.csprojResolveAssemblyReference.cache
+C:\Users\irfan\OneDrive\Documents\SharpDevelop Projects\Rumah Sakit\Rumah Sakit\obj\Debug\Rumah_Sakit.MainForm.resources
+C:\Users\irfan\OneDrive\Documents\SharpDevelop Projects\Rumah Sakit\Rumah Sakit\obj\Debug\Rumah Sakit.csproj.GenerateResource.Cache
+C:\Users\irfan\OneDrive\Documents\SharpDevelop Projects\Rumah Sakit\Rumah Sakit\obj\Debug\Rumah Sakit.exe
+C:\Users\irfan\OneDrive\Documents\SharpDevelop Projects\Rumah Sakit\Rumah Sakit\obj\Debug\Rumah Sakit.pdb
+C:\Users\irfan\OneDrive\Documents\SharpDevelop Projects\Rumah Sakit\Rumah Sakit\bin\Debug\Rumah Sakit.pdb
